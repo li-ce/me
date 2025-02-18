@@ -2,19 +2,9 @@ url: https://li-ce.github.io
 baseurl: /me/
 
 # Site settings
-title: LiaCec
+title: Liana Cechladze
 email: 
 description: "Liana Cechladze software developer portfolio website"
-
-
-# Team names, titles and social links
-people:
-- name: Liana Cechladze
-  pic: 1
-  position: Software Developer
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/liacec
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
