@@ -1,15 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Alexa Skills
+subtitle: Voice Skills for Alexa
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 
+img: alexa.png
+thumbnail: alexa.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date:
+client: 
+category: Software Development
+description: Created 2 voice skills for Alexa that satified my needs - First skill to nag to do tasks - Second skill to track the time spent on tasks.
+link:
 
 ---
