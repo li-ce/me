@@ -14,14 +14,14 @@ people:
   position: Software Developer
   social:
     - title: linkedin
-      url: linkedin.com/in/liacec
+      url: https://www.linkedin.com/in/liacec
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: linkedin.com/in/liacec
+    url: https://www.linkedin.com/in/liacec
   - title: github
-    url: github.com/li-ce
+    url: https://www.github.com/li-ce
 
 # Postal address (add as many lines as necessary)
 address:
